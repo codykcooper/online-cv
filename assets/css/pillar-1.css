@@ -8637,7 +8637,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-timeline-item-lrw:before {
-  content: url('codykcooper/online-cv/tree/gh-pages/assets/images/lrw.png');
+  content: url('../../assets/images/lrw.png');
   display: inline-block;
   position: absolute;
   left: -72px;
@@ -8648,7 +8648,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-timeline-item-osu:before {
-  content: url('assets/images/osu3.png');
+  content: url('../../assets/images/osu3.png');
   display: inline-block;
   position: absolute;
   left: -63px;
@@ -8659,7 +8659,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-timeline-item-ucd:before {
-  content: url('assets/images/ucdavis.jpeg');
+  content: url('../../assets/images/ucdavis.jpeg');
   display: inline-block;
   position: absolute;
   left: -63px;
